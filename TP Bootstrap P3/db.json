@@ -1,0 +1,74 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La actual página web de mi empresa está un tanto desactualizada y requiere una renovación. Deseo establecer una nueva página web que sea contemporánea y atractiva, al mismo tiempo que sea intuitiva para nuestros clientes. Para lograrlo, es imperativo concebir una estructura completamente nueva para el sitio, elaborar diseños frescos para las páginas y llevar a cabo el desarrollo del código correspondiente para la página web recién concebida.",
+      "image": "https://img.freepik.com/foto-gratis/colegas-dando-golpe-puno_53876-64857.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=ais"
+    },
+    {
+      "id": 5,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La actual página web de mi empresa está un tanto desactualizada y requiere una renovación. Deseo establecer una nueva página web que sea contemporánea y atractiva, al mismo tiempo que sea intuitiva para nuestros clientes. Para lograrlo, es imperativo concebir una estructura completamente nueva para el sitio, elaborar diseños frescos para las páginas y llevar a cabo el desarrollo del código correspondiente para la página web recién concebida.",      
+      "image": "https://img.freepik.com/vector-gratis/gente-pequena-haciendo-lista-prioridades-pagina-inicio-plana_74855-20249.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=sph"
+    },
+    {
+      "id": 6,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La actual página web de mi empresa está un tanto desactualizada y requiere una renovación. Deseo establecer una nueva página web que sea contemporánea y atractiva, al mismo tiempo que sea intuitiva para nuestros clientes. Para lograrlo, es imperativo concebir una estructura completamente nueva para el sitio, elaborar diseños frescos para las páginas y llevar a cabo el desarrollo del código correspondiente para la página web recién concebida.",      
+      "image": "https://img.freepik.com/foto-gratis/vista-lateral-personas-negocios-recortadas-irreconocibles-que-trabajan-escritorio-comun_1098-20474.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=sph "
+    },
+    {
+      "id": 7,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La actual página web de mi empresa está un tanto desactualizada y requiere una renovación. Deseo establecer una nueva página web que sea contemporánea y atractiva, al mismo tiempo que sea intuitiva para nuestros clientes. Para lograrlo, es imperativo concebir una estructura completamente nueva para el sitio, elaborar diseños frescos para las páginas y llevar a cabo el desarrollo del código correspondiente para la página web recién concebida.",      
+      "image": "https://img.freepik.com/foto-gratis/concepto-estrategia-planificacion-estrategia-marketing_53876-42950.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=sph"
+    },
+    {
+      "id": 8,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La actual página web de mi empresa está un tanto desactualizada y requiere una renovación. Deseo establecer una nueva página web que sea contemporánea y atractiva, al mismo tiempo que sea intuitiva para nuestros clientes. Para lograrlo, es imperativo concebir una estructura completamente nueva para el sitio, elaborar diseños frescos para las páginas y llevar a cabo el desarrollo del código correspondiente para la página web recién concebida.",      
+      "image": "https://img.freepik.com/vector-gratis/ilustracion-concepto-codificacion-manual_114360-8193.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=sph"
+    },
+    {
+      "id": 9,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La actual página web de mi empresa está un tanto desactualizada y requiere una renovación. Deseo establecer una nueva página web que sea contemporánea y atractiva, al mismo tiempo que sea intuitiva para nuestros clientes. Para lograrlo, es imperativo concebir una estructura completamente nueva para el sitio, elaborar diseños frescos para las páginas y llevar a cabo el desarrollo del código correspondiente para la página web recién concebida.",      
+      "image": "https://img.freepik.com/foto-gratis/gente-negocios-organizando-varias-notas-adhesivas-texto-vidrio-oficina_662251-1531.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=sph"
+    },
+    {
+      "id": 10,
+      "title": "Diseñar una nueva página web para el sitio web de mi empresa",
+      "category": "Por Hacer",
+      "description": "La actual página web de mi empresa está un tanto desactualizada y requiere una renovación. Deseo establecer una nueva página web que sea contemporánea y atractiva, al mismo tiempo que sea intuitiva para nuestros clientes. Para lograrlo, es imperativo concebir una estructura completamente nueva para el sitio, elaborar diseños frescos para las páginas y llevar a cabo el desarrollo del código correspondiente para la página web recién concebida.",      
+      "image": "https://img.freepik.com/foto-gratis/hombres-negocios-asiaticos-mujeres-negocios-que-reunen-intercambiar-ideas-sobre-aplicacion-planificacion-diseno-web-creativo-desarrollar-diseno-plantilla-proyectos-telefonos-moviles-que-trabajan-juntos-oficina-pequena_7861-2682.jpg?size=626&ext=jpg&ga=GA1.1.1203536917.1698073869&semt=ais"
+    },
+    {
+      "id": 2,
+      "title": "Desarrollar una nueva función para mi aplicación móvil",
+      "category": "En Progreso",
+      "description": "Me encuentro en el proceso de crear una nueva característica para mi aplicación móvil, que habilitará a los usuarios para compartir sus fotos y videos con sus amigos. La función se halla actualmente en proceso de desarrollo, pero aún se requiere un considerable esfuerzo. En este instante, estoy enfocado en la elaboración de la interfaz de usuario de la característica. Una vez finalizada la interfaz de usuario, me orientaré hacia el desarrollo de la parte trasera de la función.",
+      "image": "https://img.freepik.com/vector-gratis/fondo-degradado-ui-ux_23-2149051191.jpg?w=740&t=st=1698191514~exp=1698192114~hmac=345d966aa361fc8a4de53d525c6cb5ba038894b5f0c0fa10f46c3c44bf40950f"
+    },
+    {
+      "id": 3,
+      "title": "Probar la nueva versión de mi software",
+      "category": "Por Testear",
+      "description": "He introducido una nueva edición de mi software y es fundamental someterla a una extensa evaluación para garantizar su correcto funcionamiento. Realizaré pruebas exhaustivas del software en una gama diversa de dispositivos y configuraciones, con el propósito de descartar cualquier problema de compatibilidad. Además, llevaré a cabo pruebas en distintos escenarios de uso para confirmar que el software se comporta conforme a las expectativas.",
+      "image": "https://img.freepik.com/vector-gratis/ilustracion-concepto-programacion_114360-1351.jpg?w=740&t=st=1698191558~exp=1698192158~hmac=e8064cf4feb3e6a698b19300c5398ff7219bf19e61eb493ab58a36fab940dc83"
+    },
+    {
+      "id": 4,
+      "title": "Publicar un nuevo artículo en mi blog",
+      "category": "Completadas",
+      "description": "He compartido recientemente en mi blog un nuevo artículo relacionado con un tema que me entusiasma profundamente. El artículo ha recibido una cálida acogida por parte de mis lectores y ha suscitado un elevado nivel de interés. Estoy enormemente satisfecho por haber publicado este artículo y tengo la esperanza de continuar produciendo contenido de alta calidad en el futuro.",
+      "image": "https://img.freepik.com/vector-gratis/blogueando-divertido-creacion-contenido-streaming-online-videoblog-chica-joven-haciendo-selfie-red-social-compartir-comentarios-estrategia-autopromocion_335657-2386.jpg?w=740&t=st=1698191600~exp=1698192200~hmac=1b75a34ab6ef67f27509fa4eff77ccc76ca8c307ebbe87d44bad21e7f035973a"
+    }
+  ]
+}
